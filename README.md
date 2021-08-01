@@ -11,6 +11,7 @@ Thank you for your consideration.
 **Find my Youtube channel here --> https://www.youtube.com/channel/UCHVT0j_dnNFpAeBj7o6D2tA <--** <br />
 **Find my Instagram here --> https://www.instagram.com/safeinschool20/ <--**
 <br />
+<br />
 # mission - why am I doing this?
 The main motive behind my COVID YouTube channel and the COVID Graphmaker is that **Necessary information should be free, fast, and accessible, INCLUDING the means of redistribution.**
 I have attempted and still continue my efforts to select the correct information and distribute it on my YouTube channel.
@@ -35,7 +36,7 @@ Thank You! <br />
 <br />
 <br />
 # THE MANUAL
-<br />
+
 # difficulty
 I must admit, this took quite some time to make since I came up with this project before I knew much Python. <br />
 Now, if you know Python already, then it should be ok. <br />
@@ -43,7 +44,7 @@ But if you don't, please at least look at the free basic tutorials online, which
 <br />
 I have comments in the code showing which steps do what. I hope you find it helpful.
 <br />
-<br />
+
 # instructions
   1. Hardware Requirements <br />
     *This code was written on MacOS. Please consider that there may be discrepancies or issues when using Windows.* <br />
