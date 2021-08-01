@@ -1,1 +1,78 @@
+**COVID GRAPHMAKER**
+
 # covid-graphmaker
+This is the graphmaker code used for making the COVID-19 data graphs as seen in the "Safe In School COVID-19" YouTube channel.
+
+
+# use - just tell me
+This is code written by me, and is free for non-commercial uses only, with proper credits.
+Also, send me a short email about where you are using the code.
+Please do not copywrite this code. Do not use it until you have contacted me and I respond.
+Thank you for your consideration.
+**Contact me for usage at safeinschool20@gmail.com**
+**Find my Youtube channel here --> https://www.youtube.com/channel/UCHVT0j_dnNFpAeBj7o6D2tA <--**
+**Find my Instagram here --> https://www.instagram.com/safeinschool20/ <--**
+
+# mission - why am I doing this?
+The main motive behind my COVID YouTube channel and the COVID Graphmaker is that **Necessary information should be free, fast, and accessible, INCLUDING the means of redistribution.**
+I have attempted and still continue my efforts to select the correct information and distribute it on my YouTube channel.
+Now *redistribution* was a different issue, and this is my solution.
+
+This code is compact and does not require a computer with high computing power. (To put in perspective, any school-provided computer/laptop should be able to run this without any issues.)
+The cost is free. The code uses absolutely nothing that requires a monetary purchase.
+
+
+# future development - maybe even an app (pending)
+I realize that many people aren't familiar with coding languages. I used Python for this since it is currently a very popular language and thus more people would be able to approach it.
+But to me, it's not enough. What about the general public? How would they use this?
+On the other hand, if it becomes too easy, would that spur misinformation through abuse of the program?
+
+
+**I will be updating the YouTube page more often now that this project is ending.
+Expect more short enjoyable COVID information videos!
+Thank You!
+-SafeInSchool20**
+
+
+
+**THE MANUAL**
+
+# difficulty
+I must admit, this took quite some time to make since I came up with this project before I knew much Python.
+Now, if you know Python already, then it should be ok.
+But if you don't, please at least look at the free basic tutorials online, which I believe, should be enough.
+
+I have comments in the code showing which steps do what. I hope you find it helpful.
+
+
+# instructions
+  1. Hardware Requirements
+    *This code was written on MacOS. Please consider that there may be discrepancies or issues when using Windows.*
+    A computer. That's it.
+    
+  2. Software Requirements
+    Python: You should have Python 3 installed on your computer. (preferably the latest version of python)
+    Plotly: Plotly should be installed.
+    pandas: pandas are cute, but they cannot be installed on your computer. Make sure you have/are installing the 'Python library' named pandas.
+    Webdriver: The Chrome Webdriver should be installed.
+    Selenium: Selenium WebDriver should be installed.
+    
+    You may or may not have conda. If you know what that is, I am assuming you know what you are doing; but just to be safe, pandas is the sum of numpy, scipy, and 
+    matplotlib, none of which are individually necessary for the code, but pandas as a whole is. At least, that's how I wrote it.
+    
+  3. Running the Code
+    -----PLEASE!-----
+    READ THE CODE BEFORE RUNNING THEM. THIS IS CRUCIAL.
+    The code runs on the assumption that certain folders are located and named correctly.
+    Please follow this or edit to fit your computer.
+
+  4. Order
+    1) Run 'new_cdc_webscrap_and_statestrf.py'.   When done,
+    2) Run 'per_state_date_strf.py'.              When done,
+    3) Run 'plotly_auto_seaborn_graphmaker.py'.   Retrieve images.
+    4) End.
+ 
+ 
+ 
+ **Contact me for useage at safeinschool20@gmail.com**
+ **YouTube channel: Safe In School COVID-19, Instagram: @safeinschool20, Email: safeinschool20@gmail.com, SafeInSchool, safeinschool20**
