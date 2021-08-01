@@ -1,6 +1,4 @@
 # COVID GRAPHMAKER
-
-# covid-graphmaker
 This is the graphmaker code used for making the COVID-19 data graphs as seen in the "Safe In School COVID-19" YouTube channel.
 
 
@@ -28,11 +26,12 @@ But to me, it's not enough. What about the general public? How would they use th
 On the other hand, if it becomes too easy, would that spur misinformation through abuse of the program?
 
 
-**I will be updating the YouTube page more often now that this project is ending.
-Expect more short enjoyable COVID information videos!
-Thank You!
+**I will be updating the YouTube page more often now that this project is ending. <br />
+Expect more short enjoyable COVID information videos! <br />
+Thank You! <br />
 -SafeInSchool20**
-
+<br />
+<br />
 
 
 # THE MANUAL
