@@ -120,7 +120,10 @@ for state in statelist:
             file1 = open(newfile, "w+")
             file1.close
         fig1.write_image(newfile)
-
+    
+    # NOTE: your computer may or may not have a hard time running this code. It is, after all, designed to spit out hundreds of images in a row.
+    # So, add a '#' symbol under all of the lines below except one to run only that remaining line. Let the computer cool down, then do the next line, repeat.
+    # I've tried this, and in my exprience, it's much faster to do it this way with computers with lighter computing power. Expect to use a few minutes.
     graphmaker('case', 0)
     graphmaker('case', 1)
     graphmaker('case', 2)
