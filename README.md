@@ -3,28 +3,28 @@ This is the graphmaker code used for making the COVID-19 data graphs as seen in 
 <br />
 <br />
 # use - just tell me
-This is code written by me, and is free for non-commercial uses only, with proper credits.
-Also, send me a short email about where you are using the code.
-Please do not copywrite this code. Do not use it until you have contacted me and I respond.
-Thank you for your consideration.
+This is code written by me, and is free for non-commercial uses only, with proper credits. <br />
+Also, send me a short email about where you are using the code. <br />
+Please do not copywrite this code. Do not use it until you have contacted me and I respond. <br />
+Thank you for your consideration. <br />
 **Contact me for usage at safeinschool20@gmail.com** <br />
 **Find my Youtube channel here --> https://www.youtube.com/channel/UCHVT0j_dnNFpAeBj7o6D2tA <--** <br />
 **Find my Instagram here --> https://www.instagram.com/safeinschool20/ <--**
 <br />
 <br />
 # mission - why am I doing this?
-The main motive behind my COVID YouTube channel and the COVID Graphmaker is that **Necessary information should be free, fast, and accessible, INCLUDING the means of redistribution.**
-I have attempted and still continue my efforts to select the correct information and distribute it on my YouTube channel.
+The main motive behind my COVID YouTube channel and the COVID Graphmaker is that **Necessary information should be free, fast, and accessible, INCLUDING the means of redistribution.** <br />
+I have attempted and still continue my efforts to select the correct information and distribute it on my YouTube channel. <br />
 Now *redistribution* was a different issue, and this is my solution.
 <br />
-This code is compact and does not require a computer with high computing power. (To put in perspective, any school-provided computer/laptop should be able to run this without any issues.)
+This code is compact and does not require a computer with high computing power. (To put in perspective, any school-provided computer/laptop should be able to run this without any issues.) <br />
 The cost is free. The code uses absolutely nothing that requires a monetary purchase.
 <br />
 <br />
 # future development - maybe even an app (pending)
-I realize that many people aren't familiar with coding languages. I used Python for this since it is currently a very popular language and thus more people would be able to approach it.
-But to me, it's not enough. What about the general public? How would they use this?
-On the other hand, if it becomes too easy, would that spur misinformation through abuse of the program?
+I realize that many people aren't familiar with coding languages. I used Python for this since it is currently a very popular language and thus more people would be able to approach it. <br />
+But to me, it's not enough. What about the general public? How would they use this? <br />
+On the other hand, if it becomes too easy, would that spur misinformation through abuse of the program? <br />
 <br />
 <br />
 **I will be updating the YouTube page more often now that this project is ending. <br />
