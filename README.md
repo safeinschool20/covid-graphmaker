@@ -74,5 +74,5 @@ I have comments in the code showing which steps do what. I hope you find it help
  <br />
  <br />
  <br />
- **Contact me for useage at safeinschool20@gmail.com** <br />
+ **Contact me for usage at safeinschool20@gmail.com** <br />
  **YouTube channel: Safe In School COVID-19, Instagram: @safeinschool20, Email: safeinschool20@gmail.com, SafeInSchool, safeinschool20**
