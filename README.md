@@ -1,4 +1,4 @@
-**COVID GRAPHMAKER**
+# COVID GRAPHMAKER
 
 # covid-graphmaker
 This is the graphmaker code used for making the COVID-19 data graphs as seen in the "Safe In School COVID-19" YouTube channel.
@@ -9,8 +9,8 @@ This is code written by me, and is free for non-commercial uses only, with prope
 Also, send me a short email about where you are using the code.
 Please do not copywrite this code. Do not use it until you have contacted me and I respond.
 Thank you for your consideration.
-**Contact me for usage at safeinschool20@gmail.com**
-**Find my Youtube channel here --> https://www.youtube.com/channel/UCHVT0j_dnNFpAeBj7o6D2tA <--**
+**Contact me for usage at safeinschool20@gmail.com** <br />
+**Find my Youtube channel here --> https://www.youtube.com/channel/UCHVT0j_dnNFpAeBj7o6D2tA <--** <br />
 **Find my Instagram here --> https://www.instagram.com/safeinschool20/ <--**
 
 # mission - why am I doing this?
@@ -35,7 +35,7 @@ Thank You!
 
 
 
-**THE MANUAL**
+# THE MANUAL
 
 # difficulty
 I must admit, this took quite some time to make since I came up with this project before I knew much Python.
@@ -74,5 +74,5 @@ I have comments in the code showing which steps do what. I hope you find it help
  
  
  
- **Contact me for useage at safeinschool20@gmail.com**
+ **Contact me for useage at safeinschool20@gmail.com** <br />
  **YouTube channel: Safe In School COVID-19, Instagram: @safeinschool20, Email: safeinschool20@gmail.com, SafeInSchool, safeinschool20**
