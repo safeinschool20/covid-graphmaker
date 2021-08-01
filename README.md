@@ -69,7 +69,7 @@ I have comments in the code showing which steps do what. I hope you find it help
   4. Order <br />
     1) Run 'new_cdc_webscrap_and_statestrf.py'.   When done, <br />
     2) Run 'per_state_date_strf.py'.              When done, <br />
-    3) Run 'plotly_auto_seaborn_graphmaker.py'.   Retrieve images. <br />
+    3) Run 'plotly_auto_diff_graphmaker.py'.      Review images. <br />
     4) End.
  <br />
  <br />
